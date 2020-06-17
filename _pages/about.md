@@ -1,12 +1,12 @@
 ---
-permalink: /
-title: ""
+title: "Saqib Javed"
 layout: single
-excerpt: "About me"
+permalink: /
+excerpt: "Deep Learning and Autonomous Vehicles Hardware Optimization"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+header:
+  overlay_image: overlay.jpg
+  overlay_filter: 0.2
 ---
 
 
