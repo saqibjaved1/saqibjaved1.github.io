@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/   
 
-  - title: "Experiences"
-    url: /teaching/   
+    #  - title: "Experiences"
+    #url: /teaching/   
     
   - title: "CV"
     url: /files/CV.pdf
