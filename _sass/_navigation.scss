@@ -210,8 +210,9 @@
 
       &:first-child {
         font-weight: bold;
-
-        a {
+	padding-right: 50px;
+	a {
+	  font-size: 25px;
           margin-left: 0;
         }
       }
