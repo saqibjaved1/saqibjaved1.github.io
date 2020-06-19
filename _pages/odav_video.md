@@ -8,11 +8,11 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2014-11-18T11:34:04-05:00
+date: 2017-02-16T11:34:04-05:00
 ---
 
 This is the general idea of ODAV.
 
-<video width="480" height="320" controls="controls">
+<video width="680" height="380" controls="controls">
   <source src="/images/ODAV.mp4" type="video/mp4">
 </video>
