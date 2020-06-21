@@ -210,13 +210,14 @@
 
       &:first-child {
         font-weight: bold;
-	padding-right: 120px;
+	padding-right: 122px;
 	a {
           margin-left: 0;
         }
       }
 
       &:last-child {
+	padding-left: 50px;
         a {
           margin-right: 0;
         }
