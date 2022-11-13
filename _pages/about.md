@@ -11,7 +11,9 @@ header:
 
 <i>My research interests lie in the general area of machine learning, particularly in model optimization techniques for deep learning. I am doing research to enhance the performance of machine learning applications on both Software and Hardware level.</i>
 
-Since the start of September 2020, I am doing my master thesis in the [Integrated Systems Lab](https://iis.ee.ethz.ch/) at [ETH-Zurich](https://ethz.ch/en.html) under the supervision of [Prof. Dr. Luca Benini](https://iis.ee.ethz.ch/people/person-detail.MTk0MjM0.TGlzdC8xOTgzLDk5MDE4ODk4MA==.html) to optimize Ternary Neural Networks for Resource-Efficient AI Applications. 
+Since the start of October 2021, I am a doctoral researcher at [EPFL](https://www.epfl.ch/en/) where I am currently working on Energy-Efficient Deep Networks for Sustainable Space Activities under the supervision of [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en) and [Dr. Mathieu Salzmann](https://people.epfl.ch/mathieu.salzmann) in [Computer Vision Lab.](https://www.epfl.ch/labs/cvlab/) 
+
+I worked as an exchange researcher from September 2020 - March 2021 in the [Integrated Systems Lab](https://iis.ee.ethz.ch/) at [ETH-Zurich](https://ethz.ch/en.html) under the supervision of [Prof. Dr. Luca Benini](https://iis.ee.ethz.ch/people/person-detail.MTk0MjM0.TGlzdC8xOTgzLDk5MDE4ODk4MA==.html)to optimize Ternary Neural Networks for Resource-Efficient AI Applications. 
   
 In the past, I was working as a researcher at the [Integrated Systems](https://www.ei.tum.de/en/lis/home/) department of [Technical Universiry of Munich](www.tum.de) with [Prof. Dr.-Ing. Walter Stechele](https://www.ei.tum.de/en/lis/persons/management/walter-stechele/) and [Dr. Sabine Ott](http://www.mpe.mpg.de/person/18084/2169) to enhance framerate of camera by using deep neural network on FPGA.
 
